@@ -1,0 +1,96 @@
+.col-sm-8 card {
+    width:100%;
+}
+
+header {
+    text-align: center;
+    background-image: url(images/green.jpg);
+    box-shadow: black;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+body {
+    /*background-image: url(images/homepage2.jpg);*/
+    background-color:rgb(241, 250, 241);
+}
+
+#info {
+   background-color:white;
+}
+
+li button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 2px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+li button:hover {
+    background-color: lightgreen;
+    color: black;
+}
+
+
+li a{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;   
+}
+
+#conclussion{
+    background-color:white;
+    text-align: center;
+}
+
+#result {
+    background-color: white;
+    text-align: center;
+}
+
+a:hover {
+    background-color:darkgray;
+    color: white;
+}
+
+#theDate {
+    text-align: center;
+}
+
+#bmi{
+    background-color: dimgray;
+}
+form label {
+    background-color: dimgray;
+    color: white;
+}
+
+table {
+    color:white;
+    background-color: #999999;
+    width: 100%;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+}
+
+.flex-column{
+    background-color: rgb(225, 240, 197);
+}
+
+.card-text{
+    text-align: center;
+}
+
+#subscribe {
+    background-color: #4CAF50; /* Green */
+    border: solid darkgreen;
+    border-radius: 10%;
+    color: white;
+    padding: 2px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
